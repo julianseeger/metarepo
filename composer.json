@@ -1,0 +1,10 @@
+{
+    "name": "julianseeger/metarepo",
+    "authors": [
+        {
+            "name": "Julian Seeger",
+            "email": "seeger.julian@gmail.com"
+        }
+    ],
+    "require": {}
+}
