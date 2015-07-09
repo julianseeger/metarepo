@@ -6,5 +6,18 @@
             "email": "seeger.julian@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "julianseeger/subrepo1": "dev-master",
+        "julianseeger/subrepo2": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "./subrepo1"
+        },
+        {
+            "type": "vcs",
+            "url": "./subrepo2"
+        }
+    ]
 }
